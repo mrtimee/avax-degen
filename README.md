@@ -1,5 +1,11 @@
 # DEGEN Token Contract
 
+## Video Continuation
+
+[Avax Degen II](https://www.loom.com/share/d3b1a5a19f9b4d95888c3a22ae6b7989)
+
+[Avax Degen III](https://www.loom.com/share/789c1cd29b0b4067940632c7feac08a9)
+
 The DEGEN contract is an ERC20 token with additional functionality. Apart from the standard ERC20 functionality, it allows the contract owner to create redeemable items that users can redeem by burning a certain amount of their tokens. Each item can only be redeemed once.
 
 ## Contract Address
